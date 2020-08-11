@@ -41,7 +41,7 @@ import org.fog.utils.distribution.DeterministicDistribution;
  * @author Tzu-Tao, Chang
  *
  */
-public class vehicularControl{
+public class vehicleControl{
 	static List<FogDevice> fogDevices = new ArrayList<FogDevice>();
 	static List<Sensor> sensors = new ArrayList<Sensor>();
 	static List<Actuator> actuators = new ArrayList<Actuator>();
