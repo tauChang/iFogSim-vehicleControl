@@ -20,7 +20,7 @@ Run the following file in eclipse: `${projectPath}/src/org/fog/test/perfeval/veh
 
 ### Tuple Mapping
 |  Module | Input Tuple | Output Tuple | Fractional Selectivity |
-| -------- | -------- | -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- |
 | Client | SENSOR | CAR_CONDITION | 1 |
 | Calculator | CAR_CONDITION | MOVEMENT_INSTRUCTION | 1 |
 | Client | MOVEMENT_INSTRUCTION | MOVEMENT_UPDATE | 1 |
